@@ -29,17 +29,17 @@ https://user-images.githubusercontent.com/45033215/117622127-43ce8a80-b1ad-11eb-
 [[15주차] 4# 프로젝트 최종 보고서.pdf](https://github.com/sangmandu/4SHARP/files/6450279/15.4.pdf)
 
 ## 주차별 보고서
-[[2주차]Mask R.docx](https://github.com/sangmandu/4SHARP/files/6450294/2.Mask.R.docx)
-[[3주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450289/3.docx)
-[[5주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450290/5.docx)
-[[6주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450291/6.docx)
-[[7주차]개인 보고서 .docx](https://github.com/sangmandu/4SHARP/files/6450292/7.docx)
-[[8주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450293/8.docx)
-[[9주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450282/9.docx)
-[[10주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450283/10.docx)
-[[11주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450284/11.docx)
-[[12주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450285/12.docx)
-[[13주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450286/13.docx)
+[[2주차]Mask R.docx](https://github.com/sangmandu/4SHARP/files/6450294/2.Mask.R.docx)  
+[[3주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450289/3.docx)  
+[[5주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450290/5.docx)  
+[[6주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450291/6.docx)  
+[[7주차]개인 보고서 .docx](https://github.com/sangmandu/4SHARP/files/6450292/7.docx)  
+[[8주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450293/8.docx)  
+[[9주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450282/9.docx)  
+[[10주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450283/10.docx)  
+[[11주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450284/11.docx)  
+[[12주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450285/12.docx)  
+[[13주차]개인 보고서.docx](https://github.com/sangmandu/4SHARP/files/6450286/13.docx)  
 
 
 
